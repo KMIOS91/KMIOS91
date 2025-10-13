@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Modibo
 
-<!--
-**KMIOS91/KMIOS91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur iOS passionné par la création d'applications élégantes, performantes et orientées utilisateur.  
+Je conçois des apps sur mesure pour l’écosystème Apple, en utilisant les dernières technologies Swift et SwiftUI.
 
-Here are some ideas to get you started:
+🎯 Actuellement en recherche d'un **CDI en développement mobile iOS**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Ce que je fais:
+
+🌱 J’apprends et maîtrise Swift et SwiftUI.
+
+👨‍💻 Je travaille sur des projets personnels en utilisant Xcode et des technologies comme Core Data, Combine et UIKit.
+
+🎯 Mon objectif : Devenir un développeur mobile iOS polyvalent et compétent.
+
+💡 Mes ambitions : Développer des applications innovantes et conviviales qui améliorent l'expérience utilisateur. Contribuer à des projets open-source pour développer mes compétences et me connecter avec la communauté des développeurs.
+
+🔧 Compétences:
+
+Langages: Swift, CSS, HTML, JavaScript
+
+Frameworks: SwiftUI, UIKit, Core Data, Combine
+
+Outils: Xcode, Git, GitHub
+
+Tests: XCTest
+
+📫 Contactez-moi: Email: keitaios.91@gmail.com
+
+Je suis toujours ouvert à de nouvelles opportunités et collaborations. N'hésitez pas à consulter mes projets et à me contacter si vous souhaitez échanger ou travailler ensemble !
