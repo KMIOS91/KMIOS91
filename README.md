@@ -31,20 +31,6 @@
 
 ---
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KMIOS91&show_icons=true&theme=dracula&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KMIOS91&layout=compact&theme=dracula" height="150" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=KMIOS91&theme=dracula" height="150" />
-</div>
-
----
 
 ## 📄 Liens utiles
 
