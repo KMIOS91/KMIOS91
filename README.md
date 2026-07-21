@@ -33,10 +33,9 @@
 
 
 ## 📄 Liens utiles
-
 <div align="center">
   <a href="mailto:keitaios.91@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35"/>
   </a>
   <a href="https://www.linkedin.com/in/modibo-keita-337746278" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
