@@ -50,13 +50,13 @@
 
 <div align="center">
   <a href="mailto:modykeita2@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D44638&style=for-the-badge" alt="Email" height="28"/>
+    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35"/>
   </a>
   <a href="https://www.linkedin.com/in/modibo-keita-337746278" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" alt="LinkedIn" height="28"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
   </a>
   <a href="https://apps.apple.com/fr/app/sitiens/id6749267968" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/static/v1?message=App%20Store&logo=apple&color=000000&style=for-the-badge" alt="App Store" height="28"/>
+    <img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store" height="35"/>
   </a>
 </div>
 
